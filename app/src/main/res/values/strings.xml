@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">jetpackCompose</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_create_alarm">CreateAlarmActivity</string>
+    <string name="title_activity_edit_alarm">EditAlarmActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="title_activity_edit_task">EditTaskActivity</string>
+</resources>
